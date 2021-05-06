@@ -1,1 +1,3 @@
 Welcome to RISE
+
+Charles think GIT is FUN!
